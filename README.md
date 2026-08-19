@@ -156,7 +156,7 @@ After training, `feature_importance.png` is generated showing the top predictive
 
 ## 👩‍💻 Author
 
-**Ankita**  
+**Tanushree**  
 B.Tech CSE (Data Science) | Vignan Institute of Technology and Management, Berhampur, Odisha  
 Batch 2022–2026 | CGPA: 8.6
 
